@@ -1,0 +1,11 @@
+	TUR	TAS	ELM	PIS	TUF
+Myh	2	0	1	0	1
+Nel	5	7	1	0	0
+Euu	0	0	0	5	0
+Ale	1	2	0	0	0
+Ocp	1	1	0	0	0
+Cad	0	0	1	2	0
+Mae	10	5	0	0	0
+Gmk	1	0	0	0	0
+Nem	2	0	0	0	0
+Myr	1	0	0	0	0

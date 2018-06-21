@@ -1,0 +1,5 @@
+	TUR	TAS	TUL	PEO	PAP	ELM
+Cad	3	0	2	1	3	0
+Ilp	3	5	0	0	0	1
+Psv	0	1	0	0	0	0
+Mys	2	0	0	0	0	0

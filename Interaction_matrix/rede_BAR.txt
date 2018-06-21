@@ -1,0 +1,9 @@
+	TUR	CAH	TUF	PAC	TAS	PIS	TUL	ELM	TYM	PRN	CYC	PEO
+Cab	11	2	5	1	0	10	0	0	0	0	0	0
+Cad	1	0	0	1	19	0	1	1	0	0	0	0
+Mae	2	0	2	0	0	3	0	0	1	2	0	0
+Ilp	25	0	3	0	2	0	2	0	0	0	0	0
+Piu	0	2	0	0	0	0	0	0	0	0	1	1
+Pip	0	0	0	2	0	0	0	0	0	0	0	0
+Psv	0	1	0	0	0	0	0	0	0	0	0	0
+Cas	2	0	0	0	0	0	0	0	0	0	0	0

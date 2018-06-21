@@ -1,0 +1,6 @@
+	TUR	TAS	CHC	ELM	TUA
+Euu	3	4	1	0	0
+Ilp	5	2	0	0	1
+Bap	2	0	0	4	0
+Alp	2	0	1	0	0
+Stl	0	1	0	0	0

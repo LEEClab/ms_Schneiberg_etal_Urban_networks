@@ -1,0 +1,8 @@
+	TUR	TAS	TUF	ELM	MYM	PIS	PAC	COM	TYM	THS	PIB
+Ocp	2	1	0	1	2	0	0	1	0	0	0
+Euu	2	1	1	2	0	0	0	0	0	1	0
+Cas	6	3	0	0	1	3	0	0	0	0	0
+Sct	24	0	2	0	0	0	0	0	1	0	0
+Anr	0	1	0	1	0	0	0	0	0	0	1
+Cad	0	0	1	0	0	0	2	0	0	0	0
+Cac	0	0	0	0	0	1	0	0	0	0	0

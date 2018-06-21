@@ -1,0 +1,5 @@
+	TUR	ELM	TAS	PIS
+Cei	1	0	0	0
+Ocp	0	2	0	2
+Hod	1	0	1	0
+Fil	3	2	0	1
